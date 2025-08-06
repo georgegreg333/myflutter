@@ -1,0 +1,6 @@
+@ICommuteAPI_HostAddress = http://localhost:5031
+
+GET {{ICommuteAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

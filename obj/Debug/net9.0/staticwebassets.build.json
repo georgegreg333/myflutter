@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ZSLuaIL9UFNO5jSbvHFT7URMFWMKtlL3g5DGopBTM50=",
+  "Source": "ICommuteAPI",
+  "BasePath": "_content/ICommuteAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
