@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "aVWMQipE0e9U/khJxb60BculPEsqna8wEe3pdXDL9h8=",
+  "Source": "WasteTrackerAPI",
+  "BasePath": "_content/WasteTrackerAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\flutter\\WasteTrackerAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4466A27-87D0-3AE6-4F6D-512F84074289}|WasteTrackerAPI.csproj|c:\\flutter\\wastetrackerapi\\controller\\trackwastecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4466A27-87D0-3AE6-4F6D-512F84074289}|WasteTrackerAPI.csproj|solutionrelative:controller\\trackwastecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4466A27-87D0-3AE6-4F6D-512F84074289}|WasteTrackerAPI.csproj|c:\\flutter\\wastetrackerapi\\data\\wastedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4466A27-87D0-3AE6-4F6D-512F84074289}|WasteTrackerAPI.csproj|solutionrelative:data\\wastedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4466A27-87D0-3AE6-4F6D-512F84074289}|WasteTrackerAPI.csproj|c:\\flutter\\wastetrackerapi\\models\\trackwaste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4466A27-87D0-3AE6-4F6D-512F84074289}|WasteTrackerAPI.csproj|solutionrelative:models\\trackwaste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4466A27-87D0-3AE6-4F6D-512F84074289}|WasteTrackerAPI.csproj|c:\\flutter\\wastetrackerapi\\models\\wastedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4466A27-87D0-3AE6-4F6D-512F84074289}|WasteTrackerAPI.csproj|solutionrelative:models\\wastedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrackWasteController.cs",
+              "DocumentMoniker": "C:\\flutter\\WasteTrackerAPI\\Controller\\TrackWasteController.cs",
+              "RelativeDocumentMoniker": "Controller\\TrackWasteController.cs",
+              "ToolTip": "C:\\flutter\\WasteTrackerAPI\\Controller\\TrackWasteController.cs",
+              "RelativeToolTip": "Controller\\TrackWasteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T05:55:53.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WastedbContext.cs",
+              "DocumentMoniker": "C:\\flutter\\WasteTrackerAPI\\Models\\WastedbContext.cs",
+              "RelativeDocumentMoniker": "Models\\WastedbContext.cs",
+              "ToolTip": "C:\\flutter\\WasteTrackerAPI\\Models\\WastedbContext.cs",
+              "RelativeToolTip": "Models\\WastedbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T05:56:03.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrackWaste.cs",
+              "DocumentMoniker": "C:\\flutter\\WasteTrackerAPI\\Models\\TrackWaste.cs",
+              "RelativeDocumentMoniker": "Models\\TrackWaste.cs",
+              "ToolTip": "C:\\flutter\\WasteTrackerAPI\\Models\\TrackWaste.cs",
+              "RelativeToolTip": "Models\\TrackWaste.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T05:56:02.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WasteDbContext.cs",
+              "DocumentMoniker": "C:\\flutter\\WasteTrackerAPI\\Data\\WasteDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\WasteDbContext.cs",
+              "ToolTip": "C:\\flutter\\WasteTrackerAPI\\Data\\WasteDbContext.cs",
+              "RelativeToolTip": "Data\\WasteDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T05:46:58.773Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
