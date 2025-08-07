@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\flutter\\MyApi\\wwwroot\\images\\2be661a0-9e6d-46c7-a90f-854a02ee966e.jpg",
+      "PackagePath": "staticwebassets\\images\\2be661a0-9e6d-46c7-a90f-854a02ee966e.jpg"
+    },
+    {
+      "Id": "C:\\flutter\\MyApi\\wwwroot\\images\\8b4abbb6-ac05-44a6-9e6a-12f8c75d86c9.jpg",
+      "PackagePath": "staticwebassets\\images\\8b4abbb6-ac05-44a6-9e6a-12f8c75d86c9.jpg"
+    },
+    {
+      "Id": "C:\\flutter\\MyApi\\wwwroot\\images\\ae9a6bf8-e702-48bd-acd7-d7190aa46da7.jpg",
+      "PackagePath": "staticwebassets\\images\\ae9a6bf8-e702-48bd-acd7-d7190aa46da7.jpg"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\win-x64\\staticwebassets\\msbuild.MyApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\win-x64\\staticwebassets\\msbuild.MyApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\win-x64\\staticwebassets\\msbuild.build.MyApi.props",
+      "PackagePath": "build\\MyApi.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\win-x64\\staticwebassets\\msbuild.buildMultiTargeting.MyApi.props",
+      "PackagePath": "buildMultiTargeting\\MyApi.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\win-x64\\staticwebassets\\msbuild.buildTransitive.MyApi.props",
+      "PackagePath": "buildTransitive\\MyApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

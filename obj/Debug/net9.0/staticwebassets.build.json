@@ -1,0 +1,1361 @@
+{
+  "Version": 1,
+  "Hash": "NOGLDJOpWD32U7maZU7fZXxIZRYSqWoTul63JYKTY7g=",
+  "Source": "MyApi",
+  "BasePath": "_content/MyApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyApi\\wwwroot",
+      "Source": "MyApi",
+      "ContentRoot": "C:\\flutter\\MyApi\\wwwroot\\",
+      "BasePath": "_content/MyApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\flutter\\MyApi\\wwwroot\\images\\2be661a0-9e6d-46c7-a90f-854a02ee966e.jpg",
+      "SourceId": "MyApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\flutter\\MyApi\\wwwroot\\",
+      "BasePath": "_content/MyApi",
+      "RelativePath": "images/2be661a0-9e6d-46c7-a90f-854a02ee966e#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s8kj5r37d0",
+      "Integrity": "xLHU4aMUPyzKPlS4yYOIFfemaPRalxYhDRaA5kDqg6c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\2be661a0-9e6d-46c7-a90f-854a02ee966e.jpg"
+    },
+    {
+      "Identity": "C:\\flutter\\MyApi\\wwwroot\\images\\4731c77b-15e8-450e-82ac-1bc80bbc470f.jpg",
+      "SourceId": "MyApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\flutter\\MyApi\\wwwroot\\",
+      "BasePath": "_content/MyApi",
+      "RelativePath": "images/4731c77b-15e8-450e-82ac-1bc80bbc470f#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s8kj5r37d0",
+      "Integrity": "xLHU4aMUPyzKPlS4yYOIFfemaPRalxYhDRaA5kDqg6c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\4731c77b-15e8-450e-82ac-1bc80bbc470f.jpg"
+    },
+    {
+      "Identity": "C:\\flutter\\MyApi\\wwwroot\\images\\58533ee5-a077-407d-a3b3-5a0676427208.jpg",
+      "SourceId": "MyApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\flutter\\MyApi\\wwwroot\\",
+      "BasePath": "_content/MyApi",
+      "RelativePath": "images/58533ee5-a077-407d-a3b3-5a0676427208#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s8kj5r37d0",
+      "Integrity": "xLHU4aMUPyzKPlS4yYOIFfemaPRalxYhDRaA5kDqg6c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\58533ee5-a077-407d-a3b3-5a0676427208.jpg"
+    },
+    {
+      "Identity": "C:\\flutter\\MyApi\\wwwroot\\images\\65de86aa-da73-4c98-aca6-12f5ae0d5128.jpg",
+      "SourceId": "MyApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\flutter\\MyApi\\wwwroot\\",
+      "BasePath": "_content/MyApi",
+      "RelativePath": "images/65de86aa-da73-4c98-aca6-12f5ae0d5128#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s8kj5r37d0",
+      "Integrity": "xLHU4aMUPyzKPlS4yYOIFfemaPRalxYhDRaA5kDqg6c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\65de86aa-da73-4c98-aca6-12f5ae0d5128.jpg"
+    },
+    {
+      "Identity": "C:\\flutter\\MyApi\\wwwroot\\images\\6a6775b6-245a-461d-bc9f-4836c40b006e.jpg",
+      "SourceId": "MyApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\flutter\\MyApi\\wwwroot\\",
+      "BasePath": "_content/MyApi",
+      "RelativePath": "images/6a6775b6-245a-461d-bc9f-4836c40b006e#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s8kj5r37d0",
+      "Integrity": "xLHU4aMUPyzKPlS4yYOIFfemaPRalxYhDRaA5kDqg6c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\6a6775b6-245a-461d-bc9f-4836c40b006e.jpg"
+    },
+    {
+      "Identity": "C:\\flutter\\MyApi\\wwwroot\\images\\844e44db-5d2b-44cc-8420-e4fbc375f2a4.jpg",
+      "SourceId": "MyApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\flutter\\MyApi\\wwwroot\\",
+      "BasePath": "_content/MyApi",
+      "RelativePath": "images/844e44db-5d2b-44cc-8420-e4fbc375f2a4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s8kj5r37d0",
+      "Integrity": "xLHU4aMUPyzKPlS4yYOIFfemaPRalxYhDRaA5kDqg6c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\844e44db-5d2b-44cc-8420-e4fbc375f2a4.jpg"
+    },
+    {
+      "Identity": "C:\\flutter\\MyApi\\wwwroot\\images\\8b4abbb6-ac05-44a6-9e6a-12f8c75d86c9.jpg",
+      "SourceId": "MyApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\flutter\\MyApi\\wwwroot\\",
+      "BasePath": "_content/MyApi",
+      "RelativePath": "images/8b4abbb6-ac05-44a6-9e6a-12f8c75d86c9#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s8kj5r37d0",
+      "Integrity": "xLHU4aMUPyzKPlS4yYOIFfemaPRalxYhDRaA5kDqg6c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\8b4abbb6-ac05-44a6-9e6a-12f8c75d86c9.jpg"
+    },
+    {
+      "Identity": "C:\\flutter\\MyApi\\wwwroot\\images\\90935bc1-ce17-47d2-892e-d7feeafa9ddd.jpg",
+      "SourceId": "MyApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\flutter\\MyApi\\wwwroot\\",
+      "BasePath": "_content/MyApi",
+      "RelativePath": "images/90935bc1-ce17-47d2-892e-d7feeafa9ddd#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ld0cbi1nwj",
+      "Integrity": "FzB7EgfrZIfXkI6dFUiQtG49LgGSNpz9P0wz1aWvQDU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\90935bc1-ce17-47d2-892e-d7feeafa9ddd.jpg"
+    },
+    {
+      "Identity": "C:\\flutter\\MyApi\\wwwroot\\images\\911e487b-eab5-4d4e-937b-6ee19da86369.jpg",
+      "SourceId": "MyApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\flutter\\MyApi\\wwwroot\\",
+      "BasePath": "_content/MyApi",
+      "RelativePath": "images/911e487b-eab5-4d4e-937b-6ee19da86369#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gjsw5z8z3x",
+      "Integrity": "hNYBhKxAmLeWfi722uawP8DZiyRiTStXQS2818uGRoA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\911e487b-eab5-4d4e-937b-6ee19da86369.jpg"
+    },
+    {
+      "Identity": "C:\\flutter\\MyApi\\wwwroot\\images\\ae69aaef-c3b1-47e1-8bf9-4a20df820a75.jpg",
+      "SourceId": "MyApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\flutter\\MyApi\\wwwroot\\",
+      "BasePath": "_content/MyApi",
+      "RelativePath": "images/ae69aaef-c3b1-47e1-8bf9-4a20df820a75#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s8kj5r37d0",
+      "Integrity": "xLHU4aMUPyzKPlS4yYOIFfemaPRalxYhDRaA5kDqg6c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\ae69aaef-c3b1-47e1-8bf9-4a20df820a75.jpg"
+    },
+    {
+      "Identity": "C:\\flutter\\MyApi\\wwwroot\\images\\ae9a6bf8-e702-48bd-acd7-d7190aa46da7.jpg",
+      "SourceId": "MyApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\flutter\\MyApi\\wwwroot\\",
+      "BasePath": "_content/MyApi",
+      "RelativePath": "images/ae9a6bf8-e702-48bd-acd7-d7190aa46da7#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n9rqxco6i7",
+      "Integrity": "dYKSBshUi6fM/sTSgTJ8C3ABjZaBxtVmvYawThj2jm4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\ae9a6bf8-e702-48bd-acd7-d7190aa46da7.jpg"
+    },
+    {
+      "Identity": "C:\\flutter\\MyApi\\wwwroot\\images\\c006d7c6-9157-4a9c-9d8b-47685a94f538.jpg",
+      "SourceId": "MyApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\flutter\\MyApi\\wwwroot\\",
+      "BasePath": "_content/MyApi",
+      "RelativePath": "images/c006d7c6-9157-4a9c-9d8b-47685a94f538#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ld0cbi1nwj",
+      "Integrity": "FzB7EgfrZIfXkI6dFUiQtG49LgGSNpz9P0wz1aWvQDU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\c006d7c6-9157-4a9c-9d8b-47685a94f538.jpg"
+    },
+    {
+      "Identity": "C:\\flutter\\MyApi\\wwwroot\\images\\e3cec4e1-34fc-4575-aaaa-9db1464b2e8d.jpg",
+      "SourceId": "MyApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\flutter\\MyApi\\wwwroot\\",
+      "BasePath": "_content/MyApi",
+      "RelativePath": "images/e3cec4e1-34fc-4575-aaaa-9db1464b2e8d#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n9rqxco6i7",
+      "Integrity": "dYKSBshUi6fM/sTSgTJ8C3ABjZaBxtVmvYawThj2jm4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\e3cec4e1-34fc-4575-aaaa-9db1464b2e8d.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/2be661a0-9e6d-46c7-a90f-854a02ee966e.jpg",
+      "AssetFile": "C:\\flutter\\MyApi\\wwwroot\\images\\2be661a0-9e6d-46c7-a90f-854a02ee966e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "225531"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xLHU4aMUPyzKPlS4yYOIFfemaPRalxYhDRaA5kDqg6c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 05:22:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xLHU4aMUPyzKPlS4yYOIFfemaPRalxYhDRaA5kDqg6c="
+        }
+      ]
+    },
+    {
+      "Route": "images/2be661a0-9e6d-46c7-a90f-854a02ee966e.s8kj5r37d0.jpg",
+      "AssetFile": "C:\\flutter\\MyApi\\wwwroot\\images\\2be661a0-9e6d-46c7-a90f-854a02ee966e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "225531"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xLHU4aMUPyzKPlS4yYOIFfemaPRalxYhDRaA5kDqg6c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 05:22:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s8kj5r37d0"
+        },
+        {
+          "Name": "label",
+          "Value": "images/2be661a0-9e6d-46c7-a90f-854a02ee966e.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xLHU4aMUPyzKPlS4yYOIFfemaPRalxYhDRaA5kDqg6c="
+        }
+      ]
+    },
+    {
+      "Route": "images/4731c77b-15e8-450e-82ac-1bc80bbc470f.jpg",
+      "AssetFile": "C:\\flutter\\MyApi\\wwwroot\\images\\4731c77b-15e8-450e-82ac-1bc80bbc470f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "225531"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xLHU4aMUPyzKPlS4yYOIFfemaPRalxYhDRaA5kDqg6c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 09:17:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xLHU4aMUPyzKPlS4yYOIFfemaPRalxYhDRaA5kDqg6c="
+        }
+      ]
+    },
+    {
+      "Route": "images/4731c77b-15e8-450e-82ac-1bc80bbc470f.s8kj5r37d0.jpg",
+      "AssetFile": "C:\\flutter\\MyApi\\wwwroot\\images\\4731c77b-15e8-450e-82ac-1bc80bbc470f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "225531"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xLHU4aMUPyzKPlS4yYOIFfemaPRalxYhDRaA5kDqg6c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 09:17:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s8kj5r37d0"
+        },
+        {
+          "Name": "label",
+          "Value": "images/4731c77b-15e8-450e-82ac-1bc80bbc470f.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xLHU4aMUPyzKPlS4yYOIFfemaPRalxYhDRaA5kDqg6c="
+        }
+      ]
+    },
+    {
+      "Route": "images/58533ee5-a077-407d-a3b3-5a0676427208.jpg",
+      "AssetFile": "C:\\flutter\\MyApi\\wwwroot\\images\\58533ee5-a077-407d-a3b3-5a0676427208.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "225531"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xLHU4aMUPyzKPlS4yYOIFfemaPRalxYhDRaA5kDqg6c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 07:33:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xLHU4aMUPyzKPlS4yYOIFfemaPRalxYhDRaA5kDqg6c="
+        }
+      ]
+    },
+    {
+      "Route": "images/58533ee5-a077-407d-a3b3-5a0676427208.s8kj5r37d0.jpg",
+      "AssetFile": "C:\\flutter\\MyApi\\wwwroot\\images\\58533ee5-a077-407d-a3b3-5a0676427208.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "225531"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xLHU4aMUPyzKPlS4yYOIFfemaPRalxYhDRaA5kDqg6c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 07:33:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s8kj5r37d0"
+        },
+        {
+          "Name": "label",
+          "Value": "images/58533ee5-a077-407d-a3b3-5a0676427208.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xLHU4aMUPyzKPlS4yYOIFfemaPRalxYhDRaA5kDqg6c="
+        }
+      ]
+    },
+    {
+      "Route": "images/65de86aa-da73-4c98-aca6-12f5ae0d5128.jpg",
+      "AssetFile": "C:\\flutter\\MyApi\\wwwroot\\images\\65de86aa-da73-4c98-aca6-12f5ae0d5128.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "225531"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xLHU4aMUPyzKPlS4yYOIFfemaPRalxYhDRaA5kDqg6c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 18:47:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xLHU4aMUPyzKPlS4yYOIFfemaPRalxYhDRaA5kDqg6c="
+        }
+      ]
+    },
+    {
+      "Route": "images/65de86aa-da73-4c98-aca6-12f5ae0d5128.s8kj5r37d0.jpg",
+      "AssetFile": "C:\\flutter\\MyApi\\wwwroot\\images\\65de86aa-da73-4c98-aca6-12f5ae0d5128.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "225531"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xLHU4aMUPyzKPlS4yYOIFfemaPRalxYhDRaA5kDqg6c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 18:47:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s8kj5r37d0"
+        },
+        {
+          "Name": "label",
+          "Value": "images/65de86aa-da73-4c98-aca6-12f5ae0d5128.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xLHU4aMUPyzKPlS4yYOIFfemaPRalxYhDRaA5kDqg6c="
+        }
+      ]
+    },
+    {
+      "Route": "images/6a6775b6-245a-461d-bc9f-4836c40b006e.jpg",
+      "AssetFile": "C:\\flutter\\MyApi\\wwwroot\\images\\6a6775b6-245a-461d-bc9f-4836c40b006e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "225531"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xLHU4aMUPyzKPlS4yYOIFfemaPRalxYhDRaA5kDqg6c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 09:13:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xLHU4aMUPyzKPlS4yYOIFfemaPRalxYhDRaA5kDqg6c="
+        }
+      ]
+    },
+    {
+      "Route": "images/6a6775b6-245a-461d-bc9f-4836c40b006e.s8kj5r37d0.jpg",
+      "AssetFile": "C:\\flutter\\MyApi\\wwwroot\\images\\6a6775b6-245a-461d-bc9f-4836c40b006e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "225531"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xLHU4aMUPyzKPlS4yYOIFfemaPRalxYhDRaA5kDqg6c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 09:13:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s8kj5r37d0"
+        },
+        {
+          "Name": "label",
+          "Value": "images/6a6775b6-245a-461d-bc9f-4836c40b006e.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xLHU4aMUPyzKPlS4yYOIFfemaPRalxYhDRaA5kDqg6c="
+        }
+      ]
+    },
+    {
+      "Route": "images/844e44db-5d2b-44cc-8420-e4fbc375f2a4.jpg",
+      "AssetFile": "C:\\flutter\\MyApi\\wwwroot\\images\\844e44db-5d2b-44cc-8420-e4fbc375f2a4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "225531"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xLHU4aMUPyzKPlS4yYOIFfemaPRalxYhDRaA5kDqg6c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 05:22:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xLHU4aMUPyzKPlS4yYOIFfemaPRalxYhDRaA5kDqg6c="
+        }
+      ]
+    },
+    {
+      "Route": "images/844e44db-5d2b-44cc-8420-e4fbc375f2a4.s8kj5r37d0.jpg",
+      "AssetFile": "C:\\flutter\\MyApi\\wwwroot\\images\\844e44db-5d2b-44cc-8420-e4fbc375f2a4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "225531"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xLHU4aMUPyzKPlS4yYOIFfemaPRalxYhDRaA5kDqg6c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 05:22:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s8kj5r37d0"
+        },
+        {
+          "Name": "label",
+          "Value": "images/844e44db-5d2b-44cc-8420-e4fbc375f2a4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xLHU4aMUPyzKPlS4yYOIFfemaPRalxYhDRaA5kDqg6c="
+        }
+      ]
+    },
+    {
+      "Route": "images/8b4abbb6-ac05-44a6-9e6a-12f8c75d86c9.jpg",
+      "AssetFile": "C:\\flutter\\MyApi\\wwwroot\\images\\8b4abbb6-ac05-44a6-9e6a-12f8c75d86c9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "225531"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xLHU4aMUPyzKPlS4yYOIFfemaPRalxYhDRaA5kDqg6c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 05:22:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xLHU4aMUPyzKPlS4yYOIFfemaPRalxYhDRaA5kDqg6c="
+        }
+      ]
+    },
+    {
+      "Route": "images/8b4abbb6-ac05-44a6-9e6a-12f8c75d86c9.s8kj5r37d0.jpg",
+      "AssetFile": "C:\\flutter\\MyApi\\wwwroot\\images\\8b4abbb6-ac05-44a6-9e6a-12f8c75d86c9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "225531"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xLHU4aMUPyzKPlS4yYOIFfemaPRalxYhDRaA5kDqg6c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 05:22:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s8kj5r37d0"
+        },
+        {
+          "Name": "label",
+          "Value": "images/8b4abbb6-ac05-44a6-9e6a-12f8c75d86c9.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xLHU4aMUPyzKPlS4yYOIFfemaPRalxYhDRaA5kDqg6c="
+        }
+      ]
+    },
+    {
+      "Route": "images/90935bc1-ce17-47d2-892e-d7feeafa9ddd.jpg",
+      "AssetFile": "C:\\flutter\\MyApi\\wwwroot\\images\\90935bc1-ce17-47d2-892e-d7feeafa9ddd.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "161713"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FzB7EgfrZIfXkI6dFUiQtG49LgGSNpz9P0wz1aWvQDU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 06:28:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FzB7EgfrZIfXkI6dFUiQtG49LgGSNpz9P0wz1aWvQDU="
+        }
+      ]
+    },
+    {
+      "Route": "images/90935bc1-ce17-47d2-892e-d7feeafa9ddd.ld0cbi1nwj.jpg",
+      "AssetFile": "C:\\flutter\\MyApi\\wwwroot\\images\\90935bc1-ce17-47d2-892e-d7feeafa9ddd.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "161713"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FzB7EgfrZIfXkI6dFUiQtG49LgGSNpz9P0wz1aWvQDU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 06:28:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ld0cbi1nwj"
+        },
+        {
+          "Name": "label",
+          "Value": "images/90935bc1-ce17-47d2-892e-d7feeafa9ddd.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FzB7EgfrZIfXkI6dFUiQtG49LgGSNpz9P0wz1aWvQDU="
+        }
+      ]
+    },
+    {
+      "Route": "images/911e487b-eab5-4d4e-937b-6ee19da86369.gjsw5z8z3x.jpg",
+      "AssetFile": "C:\\flutter\\MyApi\\wwwroot\\images\\911e487b-eab5-4d4e-937b-6ee19da86369.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "159137"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hNYBhKxAmLeWfi722uawP8DZiyRiTStXQS2818uGRoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 05:31:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gjsw5z8z3x"
+        },
+        {
+          "Name": "label",
+          "Value": "images/911e487b-eab5-4d4e-937b-6ee19da86369.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hNYBhKxAmLeWfi722uawP8DZiyRiTStXQS2818uGRoA="
+        }
+      ]
+    },
+    {
+      "Route": "images/911e487b-eab5-4d4e-937b-6ee19da86369.jpg",
+      "AssetFile": "C:\\flutter\\MyApi\\wwwroot\\images\\911e487b-eab5-4d4e-937b-6ee19da86369.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "159137"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hNYBhKxAmLeWfi722uawP8DZiyRiTStXQS2818uGRoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 05:31:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hNYBhKxAmLeWfi722uawP8DZiyRiTStXQS2818uGRoA="
+        }
+      ]
+    },
+    {
+      "Route": "images/ae69aaef-c3b1-47e1-8bf9-4a20df820a75.jpg",
+      "AssetFile": "C:\\flutter\\MyApi\\wwwroot\\images\\ae69aaef-c3b1-47e1-8bf9-4a20df820a75.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "225531"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xLHU4aMUPyzKPlS4yYOIFfemaPRalxYhDRaA5kDqg6c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 10:25:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xLHU4aMUPyzKPlS4yYOIFfemaPRalxYhDRaA5kDqg6c="
+        }
+      ]
+    },
+    {
+      "Route": "images/ae69aaef-c3b1-47e1-8bf9-4a20df820a75.s8kj5r37d0.jpg",
+      "AssetFile": "C:\\flutter\\MyApi\\wwwroot\\images\\ae69aaef-c3b1-47e1-8bf9-4a20df820a75.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "225531"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xLHU4aMUPyzKPlS4yYOIFfemaPRalxYhDRaA5kDqg6c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 10:25:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s8kj5r37d0"
+        },
+        {
+          "Name": "label",
+          "Value": "images/ae69aaef-c3b1-47e1-8bf9-4a20df820a75.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xLHU4aMUPyzKPlS4yYOIFfemaPRalxYhDRaA5kDqg6c="
+        }
+      ]
+    },
+    {
+      "Route": "images/ae9a6bf8-e702-48bd-acd7-d7190aa46da7.jpg",
+      "AssetFile": "C:\\flutter\\MyApi\\wwwroot\\images\\ae9a6bf8-e702-48bd-acd7-d7190aa46da7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6992903"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dYKSBshUi6fM/sTSgTJ8C3ABjZaBxtVmvYawThj2jm4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 05:56:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dYKSBshUi6fM/sTSgTJ8C3ABjZaBxtVmvYawThj2jm4="
+        }
+      ]
+    },
+    {
+      "Route": "images/ae9a6bf8-e702-48bd-acd7-d7190aa46da7.n9rqxco6i7.jpg",
+      "AssetFile": "C:\\flutter\\MyApi\\wwwroot\\images\\ae9a6bf8-e702-48bd-acd7-d7190aa46da7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6992903"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dYKSBshUi6fM/sTSgTJ8C3ABjZaBxtVmvYawThj2jm4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 05:56:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n9rqxco6i7"
+        },
+        {
+          "Name": "label",
+          "Value": "images/ae9a6bf8-e702-48bd-acd7-d7190aa46da7.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dYKSBshUi6fM/sTSgTJ8C3ABjZaBxtVmvYawThj2jm4="
+        }
+      ]
+    },
+    {
+      "Route": "images/c006d7c6-9157-4a9c-9d8b-47685a94f538.jpg",
+      "AssetFile": "C:\\flutter\\MyApi\\wwwroot\\images\\c006d7c6-9157-4a9c-9d8b-47685a94f538.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "161713"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FzB7EgfrZIfXkI6dFUiQtG49LgGSNpz9P0wz1aWvQDU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 07:17:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FzB7EgfrZIfXkI6dFUiQtG49LgGSNpz9P0wz1aWvQDU="
+        }
+      ]
+    },
+    {
+      "Route": "images/c006d7c6-9157-4a9c-9d8b-47685a94f538.ld0cbi1nwj.jpg",
+      "AssetFile": "C:\\flutter\\MyApi\\wwwroot\\images\\c006d7c6-9157-4a9c-9d8b-47685a94f538.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "161713"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FzB7EgfrZIfXkI6dFUiQtG49LgGSNpz9P0wz1aWvQDU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 07:17:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ld0cbi1nwj"
+        },
+        {
+          "Name": "label",
+          "Value": "images/c006d7c6-9157-4a9c-9d8b-47685a94f538.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FzB7EgfrZIfXkI6dFUiQtG49LgGSNpz9P0wz1aWvQDU="
+        }
+      ]
+    },
+    {
+      "Route": "images/e3cec4e1-34fc-4575-aaaa-9db1464b2e8d.jpg",
+      "AssetFile": "C:\\flutter\\MyApi\\wwwroot\\images\\e3cec4e1-34fc-4575-aaaa-9db1464b2e8d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6992903"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dYKSBshUi6fM/sTSgTJ8C3ABjZaBxtVmvYawThj2jm4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 12:32:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dYKSBshUi6fM/sTSgTJ8C3ABjZaBxtVmvYawThj2jm4="
+        }
+      ]
+    },
+    {
+      "Route": "images/e3cec4e1-34fc-4575-aaaa-9db1464b2e8d.n9rqxco6i7.jpg",
+      "AssetFile": "C:\\flutter\\MyApi\\wwwroot\\images\\e3cec4e1-34fc-4575-aaaa-9db1464b2e8d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6992903"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dYKSBshUi6fM/sTSgTJ8C3ABjZaBxtVmvYawThj2jm4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 12:32:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n9rqxco6i7"
+        },
+        {
+          "Name": "label",
+          "Value": "images/e3cec4e1-34fc-4575-aaaa-9db1464b2e8d.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dYKSBshUi6fM/sTSgTJ8C3ABjZaBxtVmvYawThj2jm4="
+        }
+      ]
+    }
+  ]
+}
